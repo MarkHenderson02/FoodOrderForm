@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\bin\Debug\Form Food Order.exe.config
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\bin\Debug\Form Food Order.exe
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\bin\Debug\Form Food Order.pdb
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\bin\Debug\Form Food Order.xml
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form_Food_Order.Form1.resources
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form_Food_Order.Resources.resources
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.exe
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.xml
+G:\52020007\Pemg Visual\Modul 3\Form Food Order\obj\Debug\Form Food Order.pdb
